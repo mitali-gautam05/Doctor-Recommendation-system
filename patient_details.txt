@@ -1,0 +1,11 @@
+================ Patient Details ================
+➡️ Name: mis
+➡️ Date of Birth: 769jnh
+➡️ Gender: female
+➡️ Marital Status: married
+➡️ Address: njhjdvwjef
+➡️ Phone Number: 6574839271
+➡️ Blood Group: p
+➡️ Allergic Details: NO
+=================================================
+
